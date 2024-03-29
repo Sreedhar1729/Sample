@@ -1,0 +1,2 @@
+### getting data
+GET http://localhost:4004/EmpSRV/Empservice?$expand=address HTTP/1.1
